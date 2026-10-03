@@ -1,0 +1,2 @@
+# GithubaAtioins
+Github actions practice
